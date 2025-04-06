@@ -93,7 +93,7 @@ ImmerseSpatialAudio@0;57752;48403 = true
 // Display
 
 // Force specific aspect ratio independent of window aspect ratio
-AspectRatio@0;19775;7764 = auto // one of auto, standard, 5:4, wide 16:10, wide 16:9, wide 18:9, wide 19.5:9, wide 21:9, wide 32:9
+AspectRatio@0;19775;7764 = 5:4 // one of auto, standard, 5:4, wide 16:10, wide 16:9, wide 18:9, wide 19.5:9, wide 21:9, wide 32:9
 
 // Constrain mouse to game window
 ConstrainMouse@1;17649;48403 = false
@@ -144,7 +144,7 @@ ResolutionMultiplier@0;64786;30730 = 90 // 0 to 200
 NvidiaReflex@0;33761;11445 = Enabled // one of Disabled, Enabled, Enabled + boost
 
 // Fullscreen Resolution
-Resolution@0;56178;35888 = 1920x1080
+Resolution@0;56178;35888 = 1280x1024
 
 // Synchronizes framerate with refresh rate to prevent screen tearing issues
 VSync@0;55075;7764 = disabled // one of disabled, 100%, 50%, 33%, 25%
